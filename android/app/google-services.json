@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44588976415",
+    "project_id": "iplticketnotfier",
+    "storage_bucket": "iplticketnotfier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44588976415:android:adf5bafc6fe539d5a6c82a",
+        "android_client_info": {
+          "package_name": "com.iplticketnotifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4n1n0Y9tJkmIdbO8b3Lx7HX43xNRaeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
